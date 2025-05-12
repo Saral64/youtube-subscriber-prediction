@@ -49,13 +49,13 @@ With the rapid rise of social media platforms like YouTube, predicting subscribe
 
 ```
 📦 youtube-subscriber-prediction
-├── 📄 subscriber_prediction.ipynb
+├── 📊 Results/
+│   └── Actual vs Predicted.png
+│   └── Training vs Validation Loss.png
+│   └── Distribution of Residuals.png
 ├── 📄 requirements.txt
-├── 📊 results/
-│   └── loss_accuracy_plots.png
 ├── 📄 README.md
-└── 📂 dataset/
-    └── youtube_data.csv
+└── 📄 subscriber_prediction.ipynb
 ```
 
 ---
