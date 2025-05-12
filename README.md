@@ -65,7 +65,7 @@ With the rapid rise of social media platforms like YouTube, predicting subscribe
 * Add more updated YouTube data (2025+)
 * Integrate real-time analytics using YouTube APIs
 * Apply more advanced models (e.g., LSTM, XGBoost)
-* Expand to prediction across multiple social platforms (Instagram, TikTok)
+* Expand to prediction across multiple social platforms (Instagram, Twitter)
 
 ---
 
