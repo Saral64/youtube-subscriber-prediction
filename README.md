@@ -1,6 +1,6 @@
 ---
 
-# 📈 YouTube Subscriber Prediction using Machine Learning
+# 📈 YouTube Subscriber Prediction using Deep Learning
 
 This project focuses on building a machine learning model to predict the number of YouTube subscribers for a channel based on historical data and various growth metrics. The model helps estimate future subscriber counts and can assist creators and analysts in tracking audience growth trends.
 
