@@ -1,5 +1,3 @@
-Here’s a complete and clean `README.md` for your **YouTube Subscriber Prediction** project. You can copy-paste this into your GitHub repository after uploading your files:
-
 ---
 
 # 📈 YouTube Subscriber Prediction using Machine Learning
