@@ -58,6 +58,31 @@ With the rapid rise of social media platforms like YouTube, predicting subscribe
 └── 📄 subscriber_prediction.ipynb
 ```
 
+### 🛠️ Installation
+
+Follow these steps to set up and run the project locally:
+
+1. **Clone the repository**
+
+   ```bash
+   git clone https://github.com/Saral64/youtube-subscriber-prediction.git
+   cd youtube-subscriber-prediction
+   ```
+
+2. **Install dependencies**
+
+   ```bash
+   pip install -r requirements.txt
+   ```
+
+3. **Run the Jupyter Notebook**
+
+   ```bash
+   jupyter notebook
+   ```
+
+   Open `subscriber_prediction.ipynb` in the Jupyter interface to explore and run the code.
+
 ---
 
 ## 📈 Future Scope
